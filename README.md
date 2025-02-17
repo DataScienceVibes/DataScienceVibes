@@ -1,6 +1,6 @@
 ![Profile views](https://komarev.com/ghpvc/?username=DataScienceVibes&style=for-the-badge&color=ff8210 )
 [![Tanwar-12 stars](https://img.shields.io/github/stars/DataScienceVibes?color=DAF7A6&style=for-the-badge&logo=https://github.com/DataScienceVibes/repo/raw/main/path/to/your/image.png)](https://github.com/DataScienceVibes?tab=repositories&sort=stargazers)
-![Followers](https://img.shields.io/github/followers/DataScienceVibes?style=for-the-badge&color=ff8210)
+
 
 
 <h1 align="center">
